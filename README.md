@@ -10,7 +10,7 @@
 </p>
 <h3>💡 My Git Stats 💡</h3>
 <p >
-  <a href="https://github.com/${깃닉네임}">
+  <a href="https://github.com/DonghyeopLee">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonghyeopLee&&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
